@@ -11,6 +11,7 @@ Text 2
 New Text
 
 
+new adds
 
 Commit made from dev branch
 
