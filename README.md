@@ -12,3 +12,8 @@ New Text
 
 
 new adds
+
+Commit made from dev branch
+
+
+From original
