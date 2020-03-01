@@ -1,6 +1,7 @@
 # Header 1
 
 Text
+Some additional text
 MasterBranch
 ## Header 2A
 
